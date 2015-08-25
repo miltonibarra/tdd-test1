@@ -1,0 +1,11 @@
+package co.com.tdd.prueba1;
+
+public class Prueba {
+	
+	int a;
+	
+	int b;
+	
+	int c;
+
+}
